@@ -1,4 +1,5 @@
 # bus-tracking
+Fork from Luke Strange's repo for tracking UK buses from Bus Open Data Service data. See Open Innovations for original source.
 
 ## Checklist
 
